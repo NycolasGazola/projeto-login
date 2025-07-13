@@ -82,7 +82,7 @@ div.campo label{
 form > input[type=submit]{
     background-color: #49a09d;
     display: block;
-    font-size: 1em;
+    font-size: 0.8em;
     width: 100%;
     height: 40px;
     color: white;
@@ -97,7 +97,7 @@ form > input[type=submit]:hover{
 form > a.botao{
     display: block;
     text-align: center;
-    font-size: 1em;
+    font-size: 0.8em;
     width: 100%;
     height:40px;
     padding-top: 7px;
