@@ -76,7 +76,7 @@ form > div.campo{
 }
 
 div.campo label{
-    display: none;
+    display: block;
 }
 
 div.campo > i {
